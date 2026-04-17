@@ -1,0 +1,1 @@
+{\n  "name": "todo-app",\n  "version": "1.0.0",\n  "description": "A simple todo application",\n  "main": "index.html",\n  "scripts": {\n    "start": "open index.html"\n  },\n  "author": "ashokbala85",\n  "license": "ISC"\n}
